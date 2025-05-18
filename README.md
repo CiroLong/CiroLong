@@ -1,6 +1,5 @@
-### Hello , Here is Ciro ☀️. 
+### Hello , Here is Ciro☀️. 
 
-👀I'm a sophomore at HUST, majored in Computer Science and Technology.
 
 Now I'm going to be a back-end developer.✈️
 
