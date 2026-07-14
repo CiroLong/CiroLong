@@ -1,7 +1,7 @@
 # Hello , Here is Ciro Loong☀️. 
 
 
-Now I'm going to be a ai-infra developer.✈️
+Now I'm going to be a full-stack developer.✈️
 
 
 [![CiroLong's GitHub stats](https://github-readme-stats.vercel.app/api?username=CiroLong)](https://github.com/anuraghazra/github-readme-stats)
